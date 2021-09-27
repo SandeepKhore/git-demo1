@@ -1,10 +1,3 @@
-console.log('Good morinn!')
-
-const first_name = 'sandeep'
-const firstName = 'sandeep'
-
-
-
 https://www.atlassian.com/git/tutorials/what-is-version-control
 https://education.github.com/git-cheat-sheet-education.pdf
 https://slideplayer.com/slide/9055706/
